@@ -1,0 +1,160 @@
+baseURL = 'https://suny.me/'
+defaultContentLanguage = "zh-hans"
+languageCode = 'zh-hans'
+theme = "KeepIt"
+title = 'Suny'
+
+disqusShortname = "yourdiscussshortname"
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+paginate = 12
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[Permalinks]
+  posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
+
+[params]
+  author = "suny" # Author's name
+  cdn_url = "" # Base CDN URL
+  dateFormatToUse = "" # set date format, default "2 January 2006"
+  home_mode = "" # post or other
+  since = 2020
+  subtitle = "Thoughts, stories and ideas" # Subtitle
+
+  baidu_verification = ""
+  bing_verification = ""
+  google_verification = ""
+  pinterest_verification = ""
+  yandex_verification = ""
+
+  # avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+  socialShare = true
+
+  description = "" # site description
+  keywords = "" # site keywords
+
+  license = 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.gravatar]
+  email = "me@suny.me"   #uncomment and insert your email address to use gravatar
+
+[params.social]
+  GitHub = "amsuny"
+  #Linkedin = "xxxx"
+  Twitter = "suny0x01"
+  #Instagram = "xxxx"
+  #Email   = "xxxx"
+  #Facebook = "xxxx"
+  Telegram = "suny0x01"
+  #Medium = "xxxx"
+  #Gitlab = "xxxx"
+  #Youtubelegacy = "xxxx"
+  #Youtubecustom = "xxxx"
+  #Youtubechannel = "xxxx"
+  #Tumblr ="xxxx"
+  #Quora = "xxxx"
+  #Keybase = "xxxx"
+  #Pinterest = "xxxx"
+  #Reddit = "xxxx"
+  #Codepen = "xxxx"
+  #Bitbucket = "xxxx"
+  #Stackoverflow = "xxxxx"
+  #Weibo = "xxxx"
+  #Odnoklassniki = "xxxx"
+  #VKontakte = "xxxx"
+  #Flickr = "xxxx"
+  #Xing = "xxxx"
+  #Snapchat = "xxxx"
+  #Soundcloud = "xxxx"
+  #Spotify = "xxxx"
+  #Bandcamp = "xxxx"
+  #Paypal = "xxxx"
+  #Fivehundredpx = "xxxx"
+  #Mix = "xxxx"
+  #Goodreads = "xxxx"
+  #Lastfm = "xxxx"
+  #Foursquare = "xxxx"
+  #Hackernews = "xxxx"
+  #Kickstarter = "xxxx"
+  #Patreon = "xxxx"
+  #Steam = "xxxx"
+  #Twitch = "xxxx"
+  #Strava = "xxxx"
+  #Skype = "xxxx"
+  #Whatsapp = "xxxx"
+  #Zhihu = "xxxx"
+  #Douban = "xxxx"
+  #Angellist = "xxxx"
+  #Slidershare = "xxxx"
+  #Jsfiddle = "xxxx"
+  #Deviantart = "xxxx"
+  #Behance = "xxxx"
+  #Dribble = "xxxx"
+  #Wordpress = "xxxx"
+  #Vine = "xxxx"
+  #Googlescholar = "xxxx"
+  #Researchgate = "xxxx"
+  #Mastodon = "xxxx"
+  #Thingiverse = "xxxx"
+
+[params.share]
+#Facebook = true
+Twitter = true
+#Reddit = true
+#Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+Weibo = true
+
+# Used only for Seo schema
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+  name = "suny"
+
+  [params.publisher]
+  name = "suny"
+
+  [params.publisher.logo]
+  height = 40
+  url = "logo.png"
+  width = 127
+
+  [params.logo]
+  height = 40
+  url = "logo.png"
+  width = 127
+
+  [params.image]
+  height = 600
+  url = "cover.png"
+  width = 800
+
+[params.utterances] # https://utteranc.es/
+  owner = "amsuny" # Your GitHub ID
+  repo = "blog-comment" # The repo to store comments
