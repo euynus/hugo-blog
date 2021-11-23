@@ -4,10 +4,9 @@ languageCode = 'zh-hans'
 theme = "KeepIt"
 title = 'Suny'
 
-disqusShortname = "yourdiscussshortname"
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "G-6S0M02QS36"
 paginate = 12
 
 [sitemap]
