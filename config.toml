@@ -2,12 +2,13 @@ baseURL = 'https://suny.me/'
 defaultContentLanguage = "zh-hans"
 languageCode = 'zh-hans'
 theme = "KeepIt"
-title = 'Suny'
+title = 'suny'
 
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "G-6S0M02QS36"
 paginate = 12
+disqusShortname = ""
 
 [sitemap]
   changefreq = "monthly"
@@ -37,7 +38,7 @@ paginate = 12
   author = "suny" # Author's name
   cdn_url = "" # Base CDN URL
   dateFormatToUse = "" # set date format, default "2 January 2006"
-  home_mode = "" # post or other
+  home_mode = "post" # post or other
   since = 2020
   subtitle = "Thoughts, stories and ideas" # Subtitle
 
@@ -50,8 +51,8 @@ paginate = 12
   # avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
   socialShare = true
 
-  description = "" # site description
-  keywords = "" # site keywords
+  description = "Just a coder" # site description
+  keywords = "Python Rust Golang" # site keywords
 
   license = 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
