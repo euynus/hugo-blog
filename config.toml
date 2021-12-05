@@ -1,4 +1,4 @@
-baseURL = 'https://suny.me/'
+aseURL = 'https://suny.me/'
 defaultContentLanguage = "zh-hans"
 languageCode = 'zh-hans'
 theme = "KeepIt"
@@ -38,9 +38,9 @@ disqusShortname = ""
   author = "suny" # Author's name
   cdn_url = "" # Base CDN URL
   dateFormatToUse = "" # set date format, default "2 January 2006"
-  home_mode = "post" # post or other
+  home_mode = "" # post or other
   since = 2020
-  subtitle = "Thoughts, stories and ideas" # Subtitle
+  subtitle = "Lifelong Learners" # Subtitle
 
   baidu_verification = ""
   bing_verification = ""
@@ -48,16 +48,16 @@ disqusShortname = ""
   pinterest_verification = ""
   yandex_verification = ""
 
-  # avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+  avatar = "/images/me/avatar.png" #comment it to use gravatar
   socialShare = true
 
-  description = "Just a coder" # site description
+  description = "Pythonista, Rustacean, Lifelong Learners" # site description
   keywords = "Python Rust Golang" # site keywords
 
   license = 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-  email = "me@suny.me"   #uncomment and insert your email address to use gravatar
+  # email = "me@suny.me"   #uncomment and insert your email address to use gravatar
 
 [params.social]
   GitHub = "amsuny"
