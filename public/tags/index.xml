@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Suny</title>
+    <title>Tags on Even - A super concise theme for Hugo</title>
     <link>https://suny.me/tags/</link>
-    <description>Recent content in Tags on Suny</description>
+    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language><atom:link href="https://suny.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Dec 2021 00:34:15 +0800</lastBuildDate><atom:link href="https://suny.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>书单</title>
+      <link>https://suny.me/tags/%E4%B9%A6%E5%8D%95/</link>
+      <pubDate>Wed, 08 Dec 2021 00:34:15 +0800</pubDate>
+      
+      <guid>https://suny.me/tags/%E4%B9%A6%E5%8D%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>新疆</title>
+      <link>https://suny.me/tags/%E6%96%B0%E7%96%86/</link>
+      <pubDate>Tue, 23 Nov 2021 17:33:28 +0800</pubDate>
+      
+      <guid>https://suny.me/tags/%E6%96%B0%E7%96%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自驾</title>
+      <link>https://suny.me/tags/%E8%87%AA%E9%A9%BE/</link>
+      <pubDate>Tue, 23 Nov 2021 17:33:28 +0800</pubDate>
+      
+      <guid>https://suny.me/tags/%E8%87%AA%E9%A9%BE/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

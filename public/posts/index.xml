@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Suny</title>
+    <title>Posts on Even - A super concise theme for Hugo</title>
     <link>https://suny.me/posts/</link>
-    <description>Recent content in Posts on Suny</description>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language>
-    <lastBuildDate>Tue, 23 Nov 2021 17:33:28 +0800</lastBuildDate><atom:link href="https://suny.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Dec 2021 00:34:15 +0800</lastBuildDate><atom:link href="https://suny.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xinjiang Travel</title>
-      <link>https://suny.me/2021/xinjiang-travel/</link>
+      <title>2021书单</title>
+      <link>https://suny.me/posts/books-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 00:34:15 +0800</pubDate>
+      
+      <guid>https://suny.me/posts/books-2021/</guid>
+      <description>书单 已读完 The Clean Coder（纸质书） 软技能：代码之外的生存指南 (微信听书) OKR工作法：谷歌、领英等顶级公司的高绩效秘籍（微信读书） UNIX传</description>
+    </item>
+    
+    <item>
+      <title>2021国庆新疆自驾游</title>
+      <link>https://suny.me/posts/xinjiang-travel/</link>
       <pubDate>Tue, 23 Nov 2021 17:33:28 +0800</pubDate>
       
-      <guid>https://suny.me/2021/xinjiang-travel/</guid>
-      <description></description>
+      <guid>https://suny.me/posts/xinjiang-travel/</guid>
+      <description>新疆</description>
     </item>
     
   </channel>
